@@ -4,7 +4,7 @@ The purpose of this paper is to exploit Twitter data in order to perform sociolo
 ## Data cleaning
 After having collected almost 200k Tweets regarding US Midterm elections based on some endorsement hashtags, resulting texts were cleaned from both a semantic and syntactic point of view. Stopwords were removed, together with mispelled words and punctuations. Furthermore, different terms referring to the same entity were grouped together. All the cleaning process is available in the file "cleaning.md". With the cleaned text, some preliminary plots were created, considering distribution of tweets through time and frequency of words and hashtags. Below, a barplot of the most used hashtags after having grouped words semantically. 
 
-<img src="https://github.com/MatteoScianna/Twitter-analysis-US-midterms/blob/main/img/top_hashtags_after_grouping.png" width="400" height="500">
+<img src="https://github.com/MatteoScianna/Twitter-analysis-US-midterms/blob/main/img/top_hashtags_after_grouping.png" width="500" height="400">
 
 #Analysis
 With data cleaned, different analysis were performed. Tweets were divided into three groups according to their timeline, resulting in a pre-election dataset, a during-election dataset and a post-election dataset. For all of these, barplots and wordclouds of the most used words and hashtags were made. 
