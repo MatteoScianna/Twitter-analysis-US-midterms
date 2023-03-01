@@ -6,7 +6,7 @@ After having collected almost 200k Tweets regarding US Midterm elections based o
 
 <img src="https://github.com/MatteoScianna/Twitter-analysis-US-midterms/blob/main/img/top_hashtags_after_grouping.png" width="500" height="400">
 
-#Analysis
+## Analysis
 With data cleaned, different analysis were performed. Tweets were divided into three groups according to their timeline, resulting in a pre-election dataset, a during-election dataset and a post-election dataset. For all of these, barplots and wordclouds of the most used words and hashtags were made. 
 Figure below shows the wordcloud of most used words for the post-elections dataset. 
 
